@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Rowan.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏼‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at the University of Michigan.
 - 💼 &nbsp; Freelance developer. Feel free to contact me!
