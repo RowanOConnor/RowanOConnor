@@ -59,5 +59,3 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-rowano@umich.edu-blue?style=flat&logo=gmail">
   </a>
 </p>
-
-⭐️ From [RowanOConnor](https://github.com/RowanOConnor)
