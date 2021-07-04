@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/AVS1508/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rowan%20O%27Connor-blue?style=flat&logo=linkedin">
   </a>
-  <a href="mailto:rowano@umich.edu">
-    <img alt="Email" src="https://img.shields.io/badge/Email-rowano@umich.edu-blue?style=flat&logo=gmail">
+  <a href="mailto:oconnorrowand@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-oconnorrowand@gmail.com-blue?style=flat&logo=gmail">
   </a>
 </p>
