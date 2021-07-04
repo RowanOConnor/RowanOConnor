@@ -32,7 +32,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Xcode](https://img.shields.io/badge/-Xcode-0075F4?style=for-the-badge&logo=xcode&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-FF6138?style=for-the-badge&logo=postman&logoColor=white)
-  ![Hyper](https://img.shields.io/badge/-Hyper-CF1EAF?style=for-the-badge&logo=hyper&logoColor=white)
+  ![Hyper](https://img.shields.io/badge/-Hyper-000000?style=for-the-badge&logo=hyper&logoColor=CF1EAF)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FF8F27?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
   ![After Effects](https://img.shields.io/badge/-After%20Effects-8990F9?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
